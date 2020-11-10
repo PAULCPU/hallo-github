@@ -1,0 +1,16 @@
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.exe
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.deps.json
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.runtimeconfig.json
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.runtimeconfig.dev.json
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.dll
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\ref\Hallo-GitHub.dll
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\bin\Debug\net5.0\Hallo-GitHub.pdb
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.AssemblyInfo.cs
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.dll
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\ref\Hallo-GitHub.dll
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.pdb
+C:\Users\Paul\Documents\GitHub\hallo-github\Hallo-GitHub\Hallo-GitHub\obj\Debug\net5.0\Hallo-GitHub.genruntimeconfig.cache
